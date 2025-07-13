@@ -23,7 +23,7 @@ IluPrompt is an open-source Minimum Viable Product (MVP) designed to streamline 
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/bastinedinesh04/iluprompt.git
+   git clone https://github.com/DineshBastin04/iluprompt.git
    cd iluprompt
 2. **Backend Setup**:
    ```bash
