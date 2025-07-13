@@ -1,4 +1,5 @@
 # IluPrompt
+<img width="353" height="135" alt="image" src="https://github.com/user-attachments/assets/72452cf9-9145-433e-9dff-ac3c633105b8" />
 
 IluPrompt is an open-source Minimum Viable Product (MVP) designed to streamline AI prompt engineering. It provides an intuitive web interface for crafting, refining, and managing prompts for language models like Ollama (local) and OpenAI (cloud). With support for advanced features such as few-shot learning, reasoning styles (Chain-of-Thought, Tree-of-Thought, List-of-Thought), and Retrieval-Augmented Generation (RAG), IluPrompt empowers users to create effective, tailored prompts.
 
